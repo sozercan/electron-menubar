@@ -1,0 +1,20 @@
+{
+  "name": "electron-menubar",
+  "version": "1.0.0",
+  "description": "Sample menubar app that shows popover for macOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/sozercan/electron-menubar",
+  "keywords": [
+    "menubar",
+    "macOS",
+    "OS X"
+  ],
+  "author": "Sertac Ozercan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.4"
+  }
+}
